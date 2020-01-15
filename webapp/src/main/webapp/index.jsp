@@ -1,5 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-<h2> Hello from Ansible Docker Container deployment using Kubernetes for Valaxy Technologies</h2>
-<h2>Testing for Ansible Container Build</h2>
+<h2> Glad to see you here using deployment through Ansible</h2>
